@@ -65,7 +65,7 @@ This repository contains two integrated projects focused on **Employee Attrition
 ---
 
 ## 👩‍💻 Author
-- **[Your Name]**  
+- **[Bushra Begum]**  
 - 📧 Email: [bushrabegum49351@gmail.com]  
 - 🌐 GitHub: [Bushra-b-02]  
 
